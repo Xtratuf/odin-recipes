@@ -1,0 +1,57 @@
+/* CSS Style */
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-color: rgb(182, 182, 230);
+
+}
+
+body.page {
+    background-color: rgb(71, 143, 143);
+}
+
+.title {
+    font-size: 64px;
+    font-family: Helvetica, Arial, sans-serif;
+    color: rgb(0, 155, 160);
+    font-weight: bolder;
+    text-align: center;
+}
+
+.subtitle {
+    font-weight: bold;
+}
+
+.caption{
+    font-size: x-small;
+    font-weight: lighter;
+}
+
+ul li {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+ol li {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img {
+    text-align: center;
+    height: auto;
+    width: 500px;
+}
+
+img#tinyimg {
+    text-align: center;
+    height: auto;
+    width: 250px;
+}
+
+#mom {
+    color: rgb(139, 0, 139);
+    background-color: rgb(173, 255, 47);
+    text-align: center;
+}
